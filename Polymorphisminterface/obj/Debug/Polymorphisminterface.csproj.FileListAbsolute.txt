@@ -1,0 +1,2 @@
+E:\pemrograman\Polymorphisminterface\Polymorphisminterface\bin\Debug\Polymorphisminterface.exe.config
+E:\pemrograman\Polymorphisminterface\Polymorphisminterface\obj\Debug\Polymorphisminterface.csprojResolveAssemblyReference.cache
